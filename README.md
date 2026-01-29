@@ -6,7 +6,7 @@
 
 ◦ Career-switched into IT with a strong focus on building, testing, and automating software systems, combining development fundamentals with quality engineering practices
 
-◦ Technical journey includes:
+◦ Technical stack and ongoing focus:
 
 **Python programming & automation fundamentals**
 
@@ -21,10 +21,10 @@ Currently deepening skills in **Java development and Selenium WebDriver**, with 
 ◦ Passionate about writing clean, maintainable code, understanding systems end-to-end, and continuously improving software through automation and engineering best practices
 
 
-<div>
+<div align="center">
    <a href="https://github.com/GabrielCamacho99/github-readme-stats"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
