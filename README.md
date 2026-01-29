@@ -19,11 +19,10 @@
 Currently deepening skills in **Java development and Selenium WebDriver**, with an emphasis on scalable automation design
 
 ◦ Passionate about writing clean, maintainable code, understanding systems end-to-end, and continuously improving software through automation and engineering best practices
- <div>
 
 
-  
-   <a href="https://github.com/GabrielCamacho99/github-readme-stats">
+<div>
+   <a href="https://github.com/GabrielCamacho99/github-readme-stats"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -41,5 +40,4 @@ Currently deepening skills in **Java development and Selenium WebDriver**, with 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-camacho-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "gabriel31299@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" target="_blank"></a>
-  
 </div>
