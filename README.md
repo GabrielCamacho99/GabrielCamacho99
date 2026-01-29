@@ -2,11 +2,23 @@
 
  ◦ Welcome to my GitHub page!
 
- ◦ On a journey to become a Software Developer
+ ◦ **Associate Quality Engineer** at Capgemini, transitioning toward **Software Development** and **Automation Engineering**
 
- ◦ Started off with a Crash Course on Python Automation, progressed through Robot Framework with Selenium Library , QA and Software testing fundamentals, Agile Testing and Test Management Tools,... back to automation using Selenium Webdriver with Java.
- 
- ◦ Currently working as a Associate Quality Engineer at Capgemini.
+◦ Career-switched into IT with a strong focus on building, testing, and automating software systems, combining development fundamentals with quality engineering practices
+
+◦ Technical journey includes:
+
+**Python programming & automation fundamentals**
+
+**Robot Framework with Selenium Library** for test automation
+
+**Web development technologies:** HTML, CSS, JavaScript
+
+**QA & Software Testing fundamentals**, Agile Testing, and Test Management practices
+
+Currently deepening skills in **Java development and Selenium WebDriver**, with an emphasis on scalable automation design
+
+◦ Passionate about writing clean, maintainable code, understanding systems end-to-end, and continuously improving software through automation and engineering best practices
  <div>
 
 
