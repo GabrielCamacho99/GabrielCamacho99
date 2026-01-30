@@ -22,8 +22,8 @@ Currently deepening skills in **Java development and Selenium WebDriver**, with 
 
 <div align="center">
    <a href="https://github.com/GabrielCamacho99">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=synthwave&include_all_commits=true&cache_seconds=86400"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=synthwave&cache_seconds=86400"/>
    </a>
 </div>
 <div align="center" style="display: inline-block"><br>
