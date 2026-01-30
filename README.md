@@ -20,12 +20,13 @@ Currently deepening skills in **Java development and Selenium WebDriver**, with 
 
 ◦ Passionate about writing clean, maintainable code, understanding systems end-to-end, and continuously improving software through automation and engineering best practices
 
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+   <a href="https://github.com/GabrielCamacho99">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400"/>
+   </a>
 </div>
-<div style="display: inline-block"><br>
+<div align="center" style="display: inline-block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
