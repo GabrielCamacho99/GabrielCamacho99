@@ -25,16 +25,6 @@ Recently, I designed and implemented an end-to-end AI-assisted enterprise automa
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=synthwave"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=8&theme=synthwave"/>
-
-</div>
-
----
-
 # 🛠 Tech Stack
 
 ### 🤖 AI
@@ -42,7 +32,8 @@ Recently, I designed and implemented an end-to-end AI-assisted enterprise automa
 <div align="center">
 
 <img align="center" alt="Anthropic" height="55" width="70" src="https://cdn.simpleicons.org/anthropic"/>
-<img align="center" alt="OpenAI" height="55" width="70" src="https://cdn.simpleicons.org/openai"/>
+<img align="center" alt="OpenAI" height="55" width="70"
+src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
 <img align="center" alt="n8n" height="55" width="70" src="https://cdn.simpleicons.org/n8n"/>
 
 </div>
@@ -64,7 +55,6 @@ Recently, I designed and implemented an end-to-end AI-assisted enterprise automa
 <img align="center" alt="Docker" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="center" alt="Git" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="center" alt="GitHub Actions" height="55" width="70" src="https://cdn.simpleicons.org/githubactions"/>
 <img align="center" alt="VS Code" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 </div>
