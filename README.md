@@ -24,7 +24,7 @@ Recently, I designed and implemented an end-to-end AI-assisted enterprise automa
 
 # 🛠 Tech Stack
 
-### 🤖 AI
+### 🤖 AI + Automation
 
 <div align="center">
 
@@ -56,7 +56,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
 
 </div>
 
-### ⚙️ Automation
+### 🧪 Test Automation
 
 <div align="center">
 
