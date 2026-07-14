@@ -1,51 +1,102 @@
-##  ◎ Hi, my name is Gabriel Camacho 
+# ◎ Hi, I'm Gabriel Camacho 👋
 
- ◦ Welcome to my GitHub page!
+### AI Workflow Engineer • Intelligent Automation • Platform Engineering
 
- ◦ **Associate Quality Engineer** at Capgemini, transitioning toward **Software Development** and **Automation Engineering**
+Welcome to my GitHub!
 
-◦ Career-switched into IT with a strong focus on building, testing, and automating software systems, combining development fundamentals with quality engineering practices
+I'm an engineer passionate about designing AI-assisted systems that transform complex enterprise workflows into scalable, governed, and reusable automation platforms.
 
-◦ Technical stack and ongoing focus:
+Over the past year I've evolved from Quality Engineering into building AI-powered workflow orchestration, enterprise integrations, developer tooling, and automation platforms that combine software engineering, process engineering, and AI.
 
-**Python programming & automation fundamentals**
+Recently I designed and implemented an end-to-end AI-assisted Automation Platform that integrates enterprise tooling such as JIRA, Xray, Confluence, GitHub, Playwright, Claude Code and Allure, reducing a multi-step engineering workflow from approximately one week to only a few hours while preserving governance and human validation.
 
-**Robot Framework with Selenium Library** for test automation
+## ◎ Current Focus
 
-**Web development technologies:** HTML, CSS, JavaScript
+- 🤖 AI Workflow Engineering
+- 🧠 Agentic AI Systems
+- ⚙️ Business Process Automation
+- 🔗 Enterprise Integrations
+- 🏗️ Automation Platform Engineering
+- 🚀 Developer Productivity Tooling
+- 🐳 DevOps & CI/CD
+- 🎯 Process Optimization
 
-**QA & Software Testing fundamentals**, Agile Testing, and Test Management practices
-
-Currently deepening skills in **Java development and Selenium WebDriver**, with an emphasis on scalable automation design
-
-◦ Passionate about writing clean, maintainable code, understanding systems end-to-end, and continuously improving software through automation and engineering best practices
+---
 
 <div align="center">
   <a href="https://www.github.com/GabrielCamacho99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=synthwave&include_all_commits=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=6&theme=synthwave&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=8&theme=synthwave&cache_seconds=86400"/>
   </a>
 </div>
-<br>
 
-<div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="JUnit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
-  <img align="center" alt="HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img align="center" alt="Python" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="JavaScript" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Java" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="Docker" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" alt="Git" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="VSCode" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="Selenium" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+<img align="center" alt="Playwright" height="55" width="70" src="https://playwright.dev/img/playwright-logo.svg"/>
+<img align="center" alt="Postman" height="55" width="70" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+
 </div>
-<br>
 
-### In here I will post any suitable scripts and projects as I work on them, feel free to contact me via LinkedIn or email and provide me with constructive critique and tips!
+---
+
+## 💡 Technologies & Platforms
+
+- Python
+- JavaScript
+- Java
+- SQL
+- REST APIs
+- Docker
+- Git & GitHub
+- GitHub Actions
+- Playwright
+- Selenium WebDriver
+- Claude Code
+- MCP
+- AI Agents
+- n8n
+- JIRA
+- Xray
+- Confluence
+- Allure
+- Postman
+
+---
+
+## 🚀 What you'll find here
+
+- AI Engineering experiments
+- Agentic AI workflows
+- Automation platforms
+- Enterprise integrations
+- Playwright automation
+- Developer productivity tools
+- Business process automation
+- Python & JavaScript projects
+- Reusable utilities and engineering experiments
+
+---
+
+I'm always interested in discussing AI Engineering, Automation, Workflow Orchestration, Platform Engineering and building practical AI products.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-camacho-da-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:gabriel31299@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
