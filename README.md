@@ -1,27 +1,24 @@
-# ◎ Hi, I'm Gabriel Camacho 👋
+# 👋 Hi, I'm Gabriel Camacho
 
 ## AI Solutions Engineer • Intelligent Automation • Platform Engineering
 
-Welcome to my GitHub!
+I'm passionate about building AI-assisted systems that transform complex business and engineering processes into scalable, governed and reusable automation platforms.
 
-I'm passionate about designing AI-assisted systems that transform complex business and engineering processes into scalable, governed, and reusable automation platforms.
+My work combines software engineering, AI orchestration, workflow automation, enterprise integrations and process engineering to solve real operational problems—not just build AI features.
 
-My work combines Software Engineering, AI Orchestration, Workflow Automation, Enterprise Integrations and Process Engineering to solve real operational problems—not just build AI features.
-
-Recently, I designed and implemented an end-to-end AI-assisted enterprise automation platform integrating LLMs, GitHub, Playwright, JIRA, Xray, Confluence, APIs and automated reporting, reducing a multi-step engineering workflow from approximately one week to only a few hours while preserving governance, traceability and mandatory human validation.
+Recently, I designed and implemented an end-to-end AI-assisted enterprise automation platform integrating LLMs, Playwright, JIRA, Xray, Confluence, GitHub and automated reporting, reducing a multi-step engineering workflow from approximately one week to only a few hours while preserving governance, traceability and mandatory human validation.
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Current Focus
 
 - 🤖 AI Solutions Engineering
 - 🧠 Agentic AI Systems
 - ⚙️ Intelligent Workflow Automation
 - 🏗️ Platform Engineering
 - 🔗 Enterprise Integrations
-- 🚀 Developer Productivity
-- 🐳 DevOps & CI/CD
 - 📈 Business Process Automation
+- 🐳 DevOps
 
 ---
 
@@ -80,78 +77,34 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
 
 ---
 
-# 💡 Technologies
-
-### 🤖 AI & Intelligent Automation
-
-- Claude Code
-- OpenAI / Codex
-- MCP (Model Context Protocol)
-- AI Agents
-- Prompt Engineering
-- Agentic AI Workflows
-- n8n
-
-### ⚙️ Software Engineering
-
-- Python
-- JavaScript
-- Java
-- SQL
-- REST APIs
-- PowerShell / Batch
-
-### 🚀 DevOps & Platform Engineering
-
-- Docker
-- Git
-- GitHub
-
-### 🧪 Testing & Automation
-
-- Playwright
-- Playwright MCP
-- Playwright CLI
-- Selenium WebDriver
-- Postman
-- Allure
-
-### 🏢 Enterprise Tooling
-
-- JIRA
-- Xray
-- Confluence
-
----
-
 # 🚀 Featured Work
 
-Most of my recent engineering work focuses on AI-assisted enterprise platforms, intelligent workflow automation and AI-native process engineering.
+Most of my recent engineering work focuses on designing AI-assisted platforms that combine workflow orchestration, enterprise integrations, automation and human-in-the-loop governance.
 
 These projects are currently either:
 
 - 🏢 Deployed within enterprise environments, or
-- 🚀 Part of an active commercial venture.
+- 🚀 Being developed as commercial AI products.
 
-Because of this, they are not publicly available.
+For that reason, they are not publicly available.
 
-Whenever possible, I extract reusable concepts and publish public demonstrations that showcase the underlying engineering patterns without exposing proprietary implementations or client-specific solutions.
+Whenever possible, I extract reusable concepts and publish public demonstrations that showcase the underlying engineering patterns without exposing proprietary implementations.
 
 ---
 
 # 🔨 Currently Building
 
-- 🤖 AI-powered Business Automation
-- 🧠 Agentic AI Systems
-- 🎙️ Voice AI Workflows
-- 🔗 Enterprise AI Integrations
-- ⚙️ Intelligent Process Automation
+- 🤖 AI Business Automation Platform
+- 💰 AI-Assisted Financial Management Platform
+- 🧠 Agentic Workflow Orchestration
+- 🎙️ Voice AI integrated into multi-agent business workflows
+- 🏗️ Public engineering demos extracted from commercial projects
 
 ---
 
-# 📌 What you'll find here
+# 📌 Public Repositories
 
-Current public repositories include:
+Current repositories include:
 
 - Python projects
 - JavaScript projects
@@ -160,37 +113,34 @@ Current public repositories include:
 - Engineering tooling
 - Learning projects
 
-Upcoming public repositories will showcase:
+Upcoming repositories will showcase:
 
 - AI Workflow Engineering
+- Context Engineering
 - Agentic AI Patterns
 - Enterprise Integrations
-- Automation Platform Concepts
-- AI Developer Tooling
-- Context Engineering
-- Workflow Orchestration
+- AI Automation Frameworks
+- Platform Engineering Concepts
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I'm always interested in discussing:
 
 - AI Solutions Engineering
 - Intelligent Automation
-- Workflow Orchestration
+- AI Product Engineering
 - Platform Engineering
+- Workflow Orchestration
 - Enterprise Integrations
-- AI-native Products
 
-<div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-camacho-da-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/gabriel-camacho-da-silva/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gabriel31299@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+  <a href="mailto:gabriel31299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
