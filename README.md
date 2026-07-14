@@ -106,7 +106,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
 - Docker
 - Git
 - GitHub
-- GitHub Actions
 
 ### 🧪 Testing & Automation
 
