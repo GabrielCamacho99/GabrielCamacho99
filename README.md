@@ -25,16 +25,6 @@ Recently, I designed and implemented an end-to-end AI-assisted enterprise automa
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamacho99&show_icons=true&theme=synthwave"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamacho99&layout=compact&langs_count=8&theme=synthwave"/>
-
-</div>
-
----
-
 # 🛠 Tech Stack
 
 <div align="center">
